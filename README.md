@@ -50,5 +50,5 @@ The filter sizes used for convolution are fixed.
 
 References:
 1) Classnotes
-2) Open CV tutorial for the Canny edge detection - (https://docs.opencv.org/trunk/da/d22/tutorial_py_canny.html)
+2) Open CV tutorial for the Canny edge detection - https://docs.opencv.org/trunk/da/d22/tutorial_py_canny.html
 
