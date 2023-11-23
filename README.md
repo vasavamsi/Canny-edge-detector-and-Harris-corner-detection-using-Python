@@ -10,7 +10,9 @@ The code has been written on the basis of the Algorithm taught in the lectures o
 4) Hysterisis thresholding.
 5) Edge linking
 
-![edge_detection](https://github.com/vasavamsi/Canny-edge-detector-and-Harris-corner-detection-using-Python/assets/58003228/853784ba-222c-4954-8b40-c1f508405985)
+<p align="center">
+![edge_detection](https://github.com/vasavamsi/Canny-edge-detector-and-Harris-corner-detection-using-Python/assets/58003228/5e6ebc09-b98d-4769-bcac-d9c46cf35dbb)
+</p>
 
 **Instructions to run the code**
 >> Run test_script.py in codes folder
