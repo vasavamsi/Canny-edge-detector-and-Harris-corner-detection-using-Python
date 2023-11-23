@@ -14,7 +14,9 @@ The code has been written on the basis of the Algorithm taught in the lectures o
 
 
 **Instructions to run the code**
->> Run test_script.py in codes folder
->> Result images will be saved in the same folder itself
->> demo input images are already loaded
->> to test on other images please copy them to the same directory and change the image name in the test_script.py.
+_Step-1_ Run test_script.py in codes folder
+_Step-2_ Result images will be saved in the same folder itself
+_Step-3_ demo input images are already loaded
+_Step-4_ to test on other images please copy them to the same directory and change the image name in the test_script.py.
+
+
